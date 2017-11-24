@@ -1,0 +1,126 @@
+{
+	"infoa":[
+	         {"src":"../../static/img/banner2.jpg"},
+	         {"src":"../../static/img/banner1.jpg"},
+	         {"src":"../../static/img/banner2.jpg"},
+	         {"src":"../../static/img/banner3.jpg"}
+	         ],
+	 "infob":[
+	          {"src":"../../static/img/img1.jpg"},
+	          {"src":"../../static/img/8.png"}
+	          ],
+	  "infoc":[
+	           {"url":"one","src":"../../static/img/1233.png","name":"装修方案"},
+	           {"url":"/two","src":"../../static/img/1.png","name":"效果图"},
+	           {"url":"/three","src":"../../static/img/2.png","name":"设计师"},
+	           {"url":"/four","src":"../../static/img/3.png","name":"装修工地"},
+	           {"url":"/five","src":"../../static/img/4.png","name":"装修攻略"},
+	           {"url":"/six","src":"../../static/img/5.png","name":"装修贷款"},
+	           {"url":"/seven","src":"../../static/img/6.png","name":"免费预约"},
+	           {"url":"/eight","src":"../../static/img/7.png","name":"十秒报价"}
+	           ],
+	  "infod":[
+	           {"src":"../../static/img/spec_25.png","name":"吴飞柯","tel":"优秀"},
+	           {"src":"../../static/img/s_14.png","name":"陆炎龙","tel":"主任"},
+	           {"src":"../../static/img/spec_29.png","name":"张海建","tel":"总监"},
+	           {"src":"../../static/img/spec_31.png","name":"陈冲","tel":"优秀"}
+	           ],
+	 "infoe":[
+	         {"src":"../../static/img/1首页_spec_03.png"},
+	         {"src":"../../static/img/1首页_spec_05.png"},
+	         {"src":"../../static/img/1首页_spec_09.png"},
+	         {"src":"../../static/img/1首页_spec_10.png"}
+	         ],
+	  "infof":[
+	           {"src":"../../static/img/111.png","name":"验房师是做什么的？","time":"2016-07-07","tel":"115"},
+	           {"src":"../../static/img/124.png","name":"能让您涨工资的家居风水！","time":"2016-07-07","tel":"122"},
+	           {"src":"../../static/img/123.png","name":"遇到有这样房子的男人就嫁了","time":"2016-07-07","tel":"335"}
+	           ],
+	 "infog":[
+	          {"src":"../../../static/img/spec_03.png","name":"低彩度的温暖气息","tel":"混搭","tela":"三室","telb":"1100元/㎡"},
+	          {"src":"../../../static/img/spec_05.png","name":"简化繁复的装饰  简约","tel":"简约","tela":"三室","telb":"1100元/㎡"},
+	          {"src":"../../../static/img/spec_09.png","name":"新中式  静雅之秋","tel":"混搭","tela":"三室","telb":"1100元/㎡"},
+	          {"src":"../../../static/img/spec_13.png","name":"盛放之美的新古典","tel":"简约","tela":"三室","telb":"1100元/㎡"},
+	          {"src":"../../../static/img/spec_10.png","name":"清新素雅的田园风","tel":"混搭","tela":"三室","telb":"1100元/㎡"},
+	          {"src":"../../../static/img/spec_14.png","name":"龙湖春江彼岸","tel":"简约","tela":"三室","telb":"1100元/㎡"},
+	          {"src":"../../../static/img/spec_17.png","name":"流年似水，岁月安好","tel":"混搭","tela":"三室","telb":"1100元/㎡"},
+	          {"src":"../../../static/img/spec_18.png","name":"东方之美","tel":"简约","tela":"三室","telb":"1100元/㎡"},
+	          {"src":"../../../static/img/spec_21.png","name":"城市的新贵的欧式风格","tel":"混搭","tela":"三室","telb":"1100元/㎡"},
+	          {"src":"../../../static/img/spec_22.png","name":"爱情海，文化名园","tel":"简约","tela":"三室","telb":"1100元/㎡"},
+	          {"src":"../../../static/img/spec_26.png","name":"平层也玩低调奢华","tel":"混搭","tela":"三室","telb":"1100元/㎡"},
+	          {"src":"../../../static/img/spec_33.png","name":"蓝白大气地中海别墅风格","tel":"简约","tela":"三室","telb":"1100元/㎡"},
+	          {"src":"../../../static/img/spec_34.png","name":"恋上地中海的夏日转角","tel":"混搭","tela":"三室","telb":"1100元/㎡"},
+	          {"src":"../../../static/img/spec_37.png","name":"小二居的纯粹享受","tel":"简约","tela":"三室","telb":"1100元/㎡"}
+	          ],
+	"infoh":[
+	         {"src":"../../../static/img/s_03.png","name":"冯邵宇","namea":"主任","renqi":"165","zuopin":"6个","jingyan":"8年","pingjia":"0","fengge":"现代/美式/简约"},
+	         {"src":"../../../static/img/s_06.png","name":"董玉明","namea":"主任","renqi":"3289","zuopin":"7个","jingyan":"8年","pingjia":"0","fengge":"现代/美式/简约"},
+	         {"src":"../../../static/img/s_08.png","name":"吴星","namea":"主任","renqi":"519","zuopin":"8个","jingyan":"5年","pingjia":"0","fengge":"现代/美式/简约/新古典"},
+	         {"src":"../../../static/img/s_10.png","name":"张俊林","namea":"主任","renqi":"738","zuopin":"0个","jingyan":"8年","pingjia":"0","fengge":"现代/中式/欧式/简约/日式"},
+	         {"src":"../../../static/img/s_12.png","name":"吴飞柯","namea":"优秀","renqi":"2418","zuopin":"9个","jingyan":"5年","pingjia":"0","fengge":"现代/混搭/欧式/田园/简约"},
+	         {"src":"../../../static/img/s_14.png","name":"黄小红","namea":"优秀","renqi":"243","zuopin":"8个","jingyan":"2年","pingjia":"0","fengge":"现代/地中海/欧式/简约"},
+	         {"src":"../../../static/img/s_16.png","name":"陆炎龙","namea":"主任","renqi":"177","zuopin":"0个","jingyan":"10年","pingjia":"0","fengge":"现代/美式/欧式/简约"},
+	         {"src":"../../../static/img/s_18.png","name":"金俊超","namea":"优秀","renqi":"738","zuopin":"8个","jingyan":"5年","pingjia":"10","fengge":"现代/美式/简约/新古典"},
+	         {"src":"../../../static/img/s_20.png","name":"曾松","namea":"主任","renqi":"738","zuopin":"8个","jingyan":"5年","pingjia":"10","fengge":"现代/美式/简约/新古典"}
+	         ],
+	"infoi":[
+	           {"src":"../../static/img/111.png","name":"房子交付要验房，验房师是做什么的？","time":"2016-07-07","tel":"115"},
+	           {"src":"../../static/img/111.png","name":"能让您涨工资的家居风水！","time":"2016-07-07","tel":"122"},
+	           {"src":"../../static/img/111.png","name":"遇到有这样房子的男人就嫁了吧","time":"2016-07-07","tel":"335"},
+	           {"src":"../../static/img/111.png","name":"遇到有这样房子的男人就嫁了吧","time":"2016-07-07","tel":"335"},
+	           {"src":"../../static/img/111.png","name":"遇到有这样房子的男人就嫁了吧","time":"2016-07-07","tel":"335"},
+	           {"src":"../../static/img/111.png","name":"遇到有这样房子的男人就嫁了吧","time":"2016-07-07","tel":"335"},
+	           {"src":"../../static/img/111.png","name":"遇到有这样房子的男人就嫁了吧","time":"2016-07-07","tel":"335"},
+	           {"src":"../../static/img/111.png","name":"遇到有这样房子的男人就嫁了吧","time":"2016-07-07","tel":"335"},
+	           {"src":"../../static/img/111.png","name":"遇到有这样房子的男人就嫁了吧","time":"2016-07-07","tel":"335"},
+	           {"src":"../../static/img/111.png","name":"遇到有这样房子的男人就嫁了吧","time":"2016-07-07","tel":"335"}
+	           ],
+	"infoj":[
+	         {"src":"../../../static/img/z_03.png","name":"戈雅公寓24幢","namea":"泥木工程","jishi":"三室","pingfang":"60-90㎡","qianmi":"10Km"},
+	         {"src":"../../../static/img/z_06.png","name":"中泰阳光城5幢","namea":"水电工程","claa":"iconfont icon-panorama","jishi":"三室","pingfang":"60-90㎡","qianmi":"未定位"},
+	         {"src":"../../../static/img/z_08.png","name":"重汽嘉泽苑7幢","namea":"泥木工程","jishi":"三室","pingfang":"60-90㎡","qianmi":"20Km"},
+	         {"src":"../../../static/img/z_12.png","name":"观澜时代国际花园云邸5幢","namea":"泥木工程","claa":"iconfont icon-panorama","jishi":"三室","pingfang":"60-90㎡","qianmi":"20Km"},
+	         {"src":"../../../static/img/z_03.png","name":"戈雅公寓24幢","namea":"泥木工程","jishi":"三室","pingfang":"60-90㎡","qianmi":"10Km"},
+	         {"src":"../../../static/img/z_06.png","name":"中泰阳光城5幢","namea":"泥木工程","claa":"iconfont icon-panorama","jishi":"三室","pingfang":"60-90㎡","qianmi":"未定位"},
+	         {"src":"../../../static/img/z_08.png","name":"重汽嘉泽苑7幢","namea":"泥木工程","jishi":"三室","pingfang":"60-90㎡","qianmi":"10Km"},
+	         {"src":"../../../static/img/z_12.png","name":"观澜时代国际花园云邸5幢","namea":"泥木工程","claa":"iconfont icon-panorama","jishi":"三室","pingfang":"60-90㎡","qianmi":"10Km"},
+	         {"src":"../../../static/img/z_03.png","name":"戈雅公寓24幢","namea":"泥木工程","jishi":"三室","pingfang":"60-90㎡","qianmi":"10Km"},
+	         {"src":"../../../static/img/z_06.png","name":"中泰阳光城5幢","namea":"泥木工程","claa":"iconfont icon-panorama","jishi":"三室","pingfang":"60-90㎡","qianmi":"未定位"},
+	         {"src":"../../../static/img/z_08.png","name":"重汽嘉泽苑7幢","namea":"泥木工程","claa":"iconfont icon-panorama","jishi":"三室","pingfang":"60-90㎡","qianmi":"10Km"}
+	         ],
+	"infok":[
+	         {"src":"../../../static/img/03.png","name":"x*h","time":"2016-05-09","tel":"这篇文章很实用，正在装修，刚好可以用来参考一下。"},
+	         {"src":"../../../static/img/03.png","name":"y*p","time":"2017-05-29","tel":"这篇文章很实用，正在装修，刚好可以用来参考一下。"},
+	         {"src":"../../../static/img/03.png","name":"h*b","time":"2014-05-19","tel":"这篇文章很实用，正在装修，刚好可以用来参考一下。"},
+	         {"src":"../../../static/img/03.png","name":"w*a","time":"2012-07-03","tel":"这篇文章很实用，正在装修，刚好可以用来参考一下。"},
+	         {"src":"../../../static/img/03.png","name":"c*a","time":"2016-03-22","tel":"这篇文章很实用，正在装修，刚好可以用来参考一下。"},
+	         {"src":"../../../static/img/03.png","name":"a*r","time":"2015-02-19","tel":"这篇文章很实用，正在装修，刚好可以用来参考一下。"}
+	         ],
+	         "infoo":[
+	   	           {"url":"one","ida":"a","claa":"iconfont icon-case","name":"装修方案"},
+		   	       {"url":"/two","ida":"b","claa":"iconfont icon-pics","name":"装修方案"},
+		   	       {"url":"/three","ida":"c","claa":"iconfont icon-designer","name":"装修方案"},
+		   	       {"url":"/four","ida":"d","claa":"iconfont icon-construction-site","name":"装修方案"},
+		   	       {"url":"/five","ida":"e","claa":"iconfont icon-decorate","name":"装修方案"},
+		   	       {"url":"/six","ida":"f","claa":"iconfont icon-loans","name":"装修方案"},
+		   	       {"url":"/seven","ida":"g","claa":"iconfont icon-pencle","name":"装修方案"},
+		   	       {"url":"/eight","ida":"h","claa":"iconfont icon-ten","name":"装修方案"}
+	   	           ],
+	"infoda":[
+	   		  {"src":"../../static/img/s_08.png","name":"董玉明","tel":"主任"},
+	   		  {"src":"../../static/img/s_20.png","name":"张俊林","tel":"优秀"},
+	   		  {"src":"../../static/img/s_16.png","name":"黄小红","tel":"优秀"},
+	   		  {"src":"../../static/img/s_06.png","name":"曾松","tel":"总监"}
+	   	],
+	   	"infofa":[
+		           {"src":"../../static/img/123.png","name":"总有一抹记忆，会让你心痛；","time":"2016-08-30","tel":"135"},
+		           {"src":"../../static/img/111.png","name":"总有一处风景，会让你往返。","time":"2016-01-08","tel":"125"},
+		           {"src":"../../static/img/124.png","name":"若流年有爱，就心随花开；","time":"2016-10-07","tel":"15"}
+		           ],
+		"infoea":[
+	         {"src":"../../static/img/1首页_spec_10.png"},
+	         {"src":"../../static/img/126.png"},
+	         {"src":"../../static/img/127.png"},
+	         {"src":"../../static/img/1首页_spec_09.png"}
+	         ]
+}
